@@ -8,6 +8,7 @@
   "web": "https://github.com/status-im/nim-nat-traversal",
   "refs": [
     "refs/heads/master",
+    "refs/heads/update-miniupnp",
     ""
   ],
   "heads": [

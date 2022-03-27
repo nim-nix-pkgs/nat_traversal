@@ -11,6 +11,7 @@
   inputs.src-nat_traversal-master.ref   = "refs/heads/master";
   inputs.src-nat_traversal-master.owner = "status-im";
   inputs.src-nat_traversal-master.repo  = "nim-nat-traversal";
+  inputs.src-nat_traversal-master.dir   = "";
   inputs.src-nat_traversal-master.type  = "github";
   
   inputs."stew".owner = "nim-nix-pkgs";
